@@ -1,2 +1,9 @@
 sdgfjsdfasdfsadfasd
+<<<<<<< HEAD
 dsafasdfsda
+=======
+sdfasdfsad
+
+
+Teste
+>>>>>>> 1c227a7483a2be5716bd817516a98c2c908b8ce7
